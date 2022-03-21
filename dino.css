@@ -1,0 +1,27 @@
+body {
+    background-image:url("https://images.pond5.com/simple-star-space-background-effect-footage-023768280_prevstill.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+h1 {
+    color:white;
+    font-size:30px;
+}
+
+a {
+    color:white;
+    font-size:30px;
+}
+.div1
+{
+color:blue
+}
+.div2
+{
+color:cornflowerblue
+}
+.div3
+{
+color:aqua    
+}
